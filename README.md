@@ -1,16 +1,31 @@
 # dogss
 
-A new Flutter project.
+# Dog Image Viewer App
+
+This Flutter app allows you to view random dog images and images by breed and sub-breed.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to run the app on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, make sure you have Flutter and Dart installed. You can follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install) to set up your development environment.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+ Clone this repository to your local machine:
+
+   ```shell
+   git clone https://github.com/Ikhtiar76/Dogs-Image
+
+   flutter pub get
+   flutter run
+
+**Usage
+Click the "Load Random Dog Image" button to display a random dog image.
+Click the "Load Images list by breed (Hound)" button to view a list of images by breed.
+Click the "Load Image" button to view random images by breed and sub-breed.**
+
+
+
